@@ -14,3 +14,20 @@ Der Ausdruck {{ site.baseurl }} funktioniert nur zusammen mit einem Eintrag in d
 baseurl: /blog (= Name des blogs); der slash vor dem Namen blog ist zwingend erforderlich
 -->
 
+<hr>
+<br>
+<form action="https://formspree.io/c.broccard@gmx.ch"
+	method="POST">
+
+    Your name: <input type="text" name="name"><br>
+    
+    You are interested in: <input type="text" name="item"><br>
+    
+    Your email address: <input type="email" name="_replyto"><br>
+    <br>
+    
+    <input type="submit" value="Send">
+    
+</form>
+<br>
+<hr>
