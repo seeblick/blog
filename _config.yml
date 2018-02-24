@@ -6,7 +6,7 @@ description: News from the forest
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
-baseurl: /blog/
+baseurl: /blog
 
 # Build settings
 markdown: kramdown
