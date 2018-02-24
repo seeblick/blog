@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Blog vom See
 ---
 Hallo, sitze am See bei Freunden und esse pommes frites.  
 ![photo1](/assets/Aussicht.jpg)
