@@ -4,34 +4,13 @@ title: Blog vom See
 ---
 Hallo, sitze am See bei Freunden und esse pommes frites.  
 
-![photo1](./assets/Aussicht.jpg)
+![photo]({{ site.baseurl }}/assets/Aussicht.jpg)
 
-![photo2](../assets/Aussicht.jpg)
-
-[photo3]({{ site.baseurl }}{{ post.url }}/assets/Aussicht.jpg)
-
-[photo4]({{ site.baseurl }}./assets/Aussicht.jpg)
-
-![photo3a]({{ site.baseurl }}{{ post.url }}/assets/Aussicht.jpg)
-
-![photo3b]({{ site.baseurl }}/assets/Aussicht.jpg)
-
-![photo4a]({{ site.baseurl }}./assets/Aussicht.jpg)
-
-![photo5](/assets/Aussicht.jpg)
-
-![photo6](/assets/Aussicht.jpg)
-
-![photo7](/assets/Aussicht.png)
-
-![photo8](../assets/Aussicht.png)
-
-[photo9]({{ site.baseurl }}{{ post.url }}/assets/Aussicht.png)
-
-[photo10]({{ site.baseurl }}../assets/Aussicht.png)
-
-![photo11](/assets/Aussicht.png)
-
-![photo12](/assets/Aussicht.png)
-
+<!---  (so macht man in posts unsichtbare Kommentare);
+das Ausrufungszeichen am Anfang der Zeile bewirkt, dass der link (das Photo) angezeigt wird. Ohne das Ausrufunsgzeichen ist im Post ein blaues Wort - photo - zu sehen, das man klicken kann, um das Photo (den link) zu öffnen. 
+Du kannst weitere Photos in den folder /assets hochladen und diese in anderen Posts genauso verlinken.  
+![photo]({{ site.baseurl }}/assets/"filename".jpg)
+Der Ausdruck {{ site.baseurl }} funktioniert nur zusammen mit einem Eintrag in der _config.yml Datei; dort ist folgende Zeile vorhanden: 
+baseurl: /blog (= Name des blogs); der slash vor dem Namen blog ist zwingend erforderlich
+-->
 
