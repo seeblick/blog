@@ -12,6 +12,10 @@ Hallo, sitze am See bei Freunden und esse pommes frites.
 
 [photo4]({{ site.baseurl }}./assets/Aussicht.jpg)
 
+![photo3a]({{ site.baseurl }}{{ post.url }}/assets/Aussicht.jpg)
+
+![photo4a]({{ site.baseurl }}./assets/Aussicht.jpg)
+
 ![photo5](/assets/Aussicht.jpg)
 
 ![photo6](/assets/Aussicht.jpg)
