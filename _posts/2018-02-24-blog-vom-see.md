@@ -8,7 +8,7 @@ Hallo, sitze am See bei Freunden und esse pommes frites.
 
 ![photo2](../assets/Aussicht.jpg)
 
-[photo3]({{ site.baseurl }}/assets/Aussicht.jpg)
+[photo3]({{ site.baseurl }}{{ post.url }}/assets/Aussicht.jpg)
 
 [photo4]({{ site.baseurl }}../assets/Aussicht.jpg)
 
